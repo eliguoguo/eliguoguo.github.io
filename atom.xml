@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://eliguoguo.github.io</id>
+    <title>鳄梨果果</title>
+    <updated>2023-12-18T23:56:12.515Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://eliguoguo.github.io"/>
+    <link rel="self" href="https://eliguoguo.github.io/atom.xml"/>
+    <subtitle>希望你开心。</subtitle>
+    <logo>https://eliguoguo.github.io/images/avatar.png</logo>
+    <icon>https://eliguoguo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 鳄梨果果</rights>
+    <entry>
+        <title type="html"><![CDATA[【置顶】瓜西吃博客地址]]></title>
+        <id>https://eliguoguo.github.io/post/nAChYf14b/</id>
+        <link href="https://eliguoguo.github.io/post/nAChYf14b/">
+        </link>
+        <updated>2023-10-26T09:29:47.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<center>主站：</center>
+<p><a href="https://guaxichi.github.io"><center>togu.top</center></a></p>
+]]></content>
+    </entry>
+</feed>
